@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Apps dealing with Mental Health
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I have an unhealthy amount of love for Justin Bieber
+- ⚡ Fun fact: ...
 
 <!---
 AlexaDeranC/AlexaDeranC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
